@@ -76,9 +76,9 @@
 		<exclude name="WordPress.Arrays.ArrayDeclaration.SingleLineNotAllowed" />
 	</rule>
 	<rule ref="WordPress.Arrays.ArrayKeySpacingRestrictions"/>
-	<rule ref="WordPress.Classes.ValidClassName"/>
+	<rule ref="PEAR.NamingConventions.ValidClassName"/>
 	<rule ref="WordPress.Files.FileName"/>
-	<rule ref="WordPress.Functions.FunctionDeclarationArgumentSpacing"/>
+	<rule ref="Squiz.Functions.FunctionDeclarationArgumentSpacing"/>
 	<rule ref="WordPress.NamingConventions.ValidFunctionName"/>
 	<rule ref="WordPress.WhiteSpace.ControlStructureSpacing"/>
 	<rule ref="WordPress.WhiteSpace.OperatorSpacing"/>
